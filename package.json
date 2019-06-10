@@ -73,9 +73,7 @@
     "lodash": "4.17.11",
     "run-sequence": "1.2.2",
     "skeleton-css": "2.0.4",
-    "standard": "5.4.1"
-  },
-  "dependencies": {
+    "standard": "5.4.1",
     "broken-link-checker": "^0.7.8"
   }
 }
